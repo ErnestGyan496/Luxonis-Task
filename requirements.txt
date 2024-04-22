@@ -1,0 +1,6 @@
+flask
+# psycopg2
+pandas
+requests
+PyPI
+psycopg2-binary
